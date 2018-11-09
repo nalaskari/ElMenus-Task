@@ -1,0 +1,5 @@
+14:59:56,287 DEBUG devpinoyLogger:60 - chrome started
+15:00:20,921 DEBUG devpinoyLogger:21 - Game Added to the Cart
+15:00:28,174 DEBUG devpinoyLogger:18 - Cart is Checked out
+15:00:40,262 DEBUG devpinoyLogger:31 - Cart is Checked out
+15:00:41,145 DEBUG devpinoyLogger:86 - driver closed
